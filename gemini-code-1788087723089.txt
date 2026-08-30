@@ -1,0 +1,2 @@
+DATABASE_URL=postgresql://postgres:sifre@localhost:5432/kobi_erp_db
+SECRET_KEY=cok_gizli_ve_guvenli_jwt_secret_anahtari
